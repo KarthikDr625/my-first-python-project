@@ -1,0 +1,8 @@
+# hello.py
+# A simple Python program for your first GitHub repository
+
+def main():
+    print("Hello, GitHub! This is my first repository.")
+
+if __name__ == "__main__":
+    main()
